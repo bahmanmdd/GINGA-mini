@@ -13,4 +13,4 @@ During the lecture on Friday, we will cover the fundamentals of NDPs and GNNs an
 - Code: [GitHub Repository: HDLMF_GIN-GA](https://github.com/bahmanmdd/HDLMF_GIN-GA)
 - Dataset: [Dataset repository](https://figshare.com/articles/dataset/_b_Equilibrium-Traffic-Networks_b_/27889251/3)
 
-The python environemnt simply needs pickle, matplotlib, pytorch and pytorch geometric. So no separate requirements file.
+The python environemnt simply needs pickle, matplotlib, pytorch and pytorch geometric. But the requirements.txt file is added in case you want to automate creation of the python environment.
