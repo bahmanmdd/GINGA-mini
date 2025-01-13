@@ -14,3 +14,5 @@ During the lecture on Friday, we will cover the fundamentals of NDPs and GNNs an
 - Dataset: [Dataset repository](https://figshare.com/articles/dataset/_b_Equilibrium-Traffic-Networks_b_/27889251/3)
 
 The python environemnt simply needs pytorch and pytorch geometric (plus numpy, pickle and matplotlib, which come preinstalled with scipy environments). But the requirements.txt file is added in case you want to automate creation of the python environment.
+
+This repository will be updated in time based on student contributions and additional projects and exercises. Feel free to contribute by opening a pull request.
